@@ -1,0 +1,6 @@
+km=int(input())
+cm=km+100000
+print("the value in cm",cm)
+output:
+20
+the value in cm 100020
